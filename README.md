@@ -2,8 +2,6 @@
 # AnimacionFisica 
 
 ## Como Trabajar?
-Existen 3 modos de trabajo:
-
 * Comenzamos en la carpeta Story Board, los frames de esta deben de estar separados en imagenes, entonces se pasa a un video o se usa como fondo para crear encima de ellas, se utiliza como una plantilla (solo para hacer el audio y sprites de ideas)
 
 * A la vez sobre el archivo de story board hecho video, se le habla por encima lo que dice en el libreto y de esa forma tenemos una idea de cuanto debe durar cada fotograma y cuanto dura cada seccion para una vez hecho esto saber que tipo de animacion calza en ella
