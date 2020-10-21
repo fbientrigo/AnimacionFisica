@@ -36,16 +36,16 @@ Digamos quieres saber que tan lejos esta Daniel de ti, con una huincha mides la 
 
 *acercamiento a la huincha*
 
-y que tal el amigo de Daniel?
+y asi cualquier persona a nuestra derecha posee una lugar dado por un unico numero
 
 Que hay del gato a tu izquierda? 2 metros
 Usaremos numeros negativos para la izquierda y positivos a la derecha
 Por tanto el gato se encuentra a -2m, Daniel +15m y Luis +30m
 
-lo sepas o no estas utilizando un sistema de referencia, existe un punto 0
-Mide la distancia que estas hacia ti mismo? Pues es 0
-Lllamamos a esto el origen
+lo que acabas de armarte es un sistema de referencia, que es un objeto imaginario donde las posiciones son numeros (transcribir lo que existe en el video hasta el ejemplo del cohete)
 
+esto te puede salvar la vida, imagina debes hacer estallar una colmena de alienigenas zombies pero el sistema de guiado se ha roto, esta en ti el ingresar las coordenadas correctas 
+lo cual puede ser la diferencia entre evitar una catastrofe, o lanzarte el misil a ti mismo
 
 
 # Energia
