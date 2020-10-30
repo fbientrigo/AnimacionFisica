@@ -49,12 +49,44 @@ lo cual puede ser la diferencia entre evitar una catastrofe, o lanzarte el misil
 
 
 # Energia
-Energia almacenada en forma de combustible, en TNT, la energia nunca desaparece, solo se transforma de una forma a otra
-Campo
 
-# Principio del Gradiente (la naturaleza es floja)
+*Profesor X flotando y un tipo a la izquiera mirando* // Por que no puedes
+levitar como el profesor?
+
+Primero que todo la Energia tiene muchas formas: almacenada en forma de combustible, en TNT, la energia nunca se crea ni se destruye, solo se transforma de una forma a otra
+
+Por ejemplo *Metal slug con jetpack volando*
+este soldado para poder elevarse, convierte la energia del combustible  *close up al jetpack* en energia de movimiento *acelera volando*
 
 
+Mira estas dos rocas, podemos preguntar cuanta energia de movimiento tiene cada
+una, *operador energia = 0 para las dos ya que estan quietas*
+Esperemos un poco y *blink* ahora midamos la energia:
+la primera sigue quieta asi que es 0 y la segunda.. 400! de donde ha venido
+esta energia extra?
+si observamos por el hecho de hacerla caer, aumento velocidad al caer, la
+llamamos energia de altura, puedes comprobarlo dejando caer algo, entre mas
+alto este mayor velocidad tomara justo antes de golpear el piso *diferentes
+rocas a distitnas alturas*
+
+Pero que si tener altura nos genera energia.. no podriamos crear una maquina de
+energia infinita? *rueda extraña de varias bolas callendo y volviendo a subir*
+pues resulta que para elevar algo hasta 400 J de energia, necesitas darle 400 J de
+energia para ello (nada es gratis en el universo unu)
+
+Para medir energia usamos Joules, que 1 Joule es la energia que tiene una
+manzana al caer desde la altura de 1 metro.
+
+Pongamos en practica:
+Si un Charizard de 100 kg quiere volar a 1 km de altura cuanta energia
+necesita?
+
+*calculo simplecito con operadores*
+Pues utilizaria Z joules lo que seria comer ZZ hamburguesas
+la energia de las hamburguesas se convirtio en energia de altura
+ahora que se lance en picada.. toda esa energia de las hamburguesas paso ahora
+a ser parte de un ataque.. *animacion del charizard usando vuelo y pegandole
+a un pokemon* (insertar un comentario extra uwu)
 
 # Oscilaciones (Salto del Spoink modelado matemáticamente)
 *Utilizar Spoink estatico  / Se aplica derivada del tiempo -> Se mueve*
