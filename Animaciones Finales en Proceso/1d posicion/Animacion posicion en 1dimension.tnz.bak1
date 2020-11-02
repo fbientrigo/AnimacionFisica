@@ -453,13 +453,13 @@
             0 4 <level id='1'/>0001 0 
           </cell>
           <cell>
-            29 3 <level id='1'/>0062 1 
+            29 3 <level id='1'/>0061 1 
           </cell>
           <cell>
-            32 2 <level id='1'/>0062 3 
+            32 2 <level id='1'/>0061 3 
           </cell>
           <cell>
-            34 10 <level id='1'/>0066 1 
+            34 10 <level id='1'/>0065 1 
           </cell>
           </cells>
         <fx>
@@ -494,16 +494,16 @@
         </status>
         <cells>
           <cell>
-            8 2 <level id='1'/>0041 1 
+            8 2 <level id='1'/>0040 1 
           </cell>
           <cell>
-            10 2 <level id='1'/>0041 1 
+            10 2 <level id='1'/>0040 1 
           </cell>
           <cell>
-            12 2 <level id='1'/>0041 1 
+            12 2 <level id='1'/>0040 1 
           </cell>
           <cell>
-            14 2 <level id='1'/>0041 1 
+            14 2 <level id='1'/>0040 1 
           </cell>
           </cells>
         <fx>
@@ -645,19 +645,19 @@
             42 2 <level id='1'/>0017 2 
           </cell>
           <cell>
-            44 3 <level id='1'/>0051 0 
+            44 3 <level id='1'/>0050 0 
           </cell>
           <cell>
-            47 3 <level id='1'/>0052 0 
+            47 3 <level id='1'/>0051 0 
           </cell>
           <cell>
-            50 3 <level id='1'/>0053 0 
+            50 3 <level id='1'/>0052 0 
           </cell>
           <cell>
-            53 9 <level id='1'/>0054 0 
+            53 9 <level id='1'/>0053 0 
           </cell>
           <cell>
-            62 14 <level id='1'/>0055 0 
+            62 14 <level id='1'/>0054 0 
           </cell>
           </cells>
         <fx>
@@ -1160,6 +1160,6 @@
     "| #6   30 Oct 20   01:44   LAPTOP-S7GBJfbien           |"
     "| #7   30 Oct 20   02:21   LAPTOP-S7GBJfbien           |"
     "| #8   01 Nov 20   16:39   LAPTOP-S7GBJfbien           |"
-    "| #9   02 Nov 20   02:36   LAPTOP-S7GBJfbien           |"
+    "| #9   02 Nov 20   02:33   LAPTOP-S7GBJfbien           |"
   </history>
   </tnz>
