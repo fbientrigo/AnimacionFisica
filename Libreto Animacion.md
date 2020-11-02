@@ -55,8 +55,8 @@ levitar como el profesor?
 
 Primero que todo la Energia tiene muchas formas: almacenada en forma de combustible, en TNT, la energia nunca se crea ni se destruye, solo se transforma de una forma a otra
 
-Por ejemplo *Metal slug con jetpack volando*
-este soldado para poder elevarse, convierte la energia del combustible  *close up al jetpack* en energia de movimiento *acelera volando*
+Por ejemplo *nave del metal slug voladno*
+esta nave para poder elevarse, convierte la energia del combustible  *close up al jetpack* en energia de movimiento *acelera volando*
 
 
 Mira estas dos rocas, podemos preguntar cuanta energia de movimiento tiene cada
