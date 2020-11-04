@@ -31,8 +31,9 @@ La fisica utiliza la imaginacion y las matemáticas como lenguaje para responder
 
 # Posición en el Espacio
 Posicion en 1 Dimension
-Digamos quieres saber que tan lejos esta Daniel de ti, con una huincha mides la distancia
-
+Tenemos el siguiente
+Digamos quieres saber que tan lejos esta Daniel de ti, hola daniel //saludan
+usaremos una cinta metrica
 *acercamiento a la huincha*
 
 y asi cualquier persona a nuestra derecha posee una lugar dado por un unico numero
