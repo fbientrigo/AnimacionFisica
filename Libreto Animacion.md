@@ -17,10 +17,9 @@ Libreto del Video
   Nombre de seccion
   Intro
   Posición en el Espacio
-  Posicion en 1 Dimension
-  Energia
-  Campo
-  Principio del Gradiente (la naturaleza es floja)
+  Posicion en 1 Dimension //Animacion en estado final sin audio
+  Energia                 //Animacion en proceso
+  Campo                   //Animacion en proceso
   Oscilaciones (Salto del Spoink modelado matemáticamente)
   Fuerza electrica y Radiacion (Leyes de Maxwell mediante operadores)
   ¿Por qué el cielo es azul?
@@ -37,45 +36,44 @@ Digamos quieres saber que tan lejos esta Daniel de ti, con una huincha mides la 
 *acercamiento a la huincha*
 
 y asi cualquier persona a nuestra derecha posee una lugar dado por un unico numero
+es una dimension por que la posicion de algo la podemos explicar con un solo
+numero, los 15 metros de Daniel
 
-Que hay del gato a tu izquierda? 2 metros
-Usaremos numeros negativos para la izquierda y positivos a la derecha
-Por tanto el gato se encuentra a -2m, Daniel +15m y Luis +30m
+Si hablamos de dos dimensiones aumentamos a 2 los numeros necesarios //ajedrez
+la posicion de una pieza se llama coordenada
 
-lo que acabas de armarte es un sistema de referencia, que es un objeto imaginario donde las posiciones son numeros (transcribir lo que existe en el video hasta el ejemplo del cohete)
-
+// Utilizar sprites del juego "Into the Breach" 
 esto te puede salvar la vida, imagina debes hacer estallar una colmena de alienigenas zombies pero el sistema de guiado se ha roto, esta en ti el ingresar las coordenadas correctas 
 lo cual puede ser la diferencia entre evitar una catastrofe, o lanzarte el misil a ti mismo
-
 
 # Energia
 
 *Profesor X flotando y un tipo a la izquiera mirando* // Por que no puedes
-levitar como el profesor?
+levitar como el profesor? (Sprite hecho)
 
 Primero que todo la Energia tiene muchas formas: almacenada en forma de combustible, en TNT, la energia nunca se crea ni se destruye, solo se transforma de una forma a otra
 
+-- Nave Metal Slug (en proceso)
 Por ejemplo *nave del metal slug voladno*
 esta nave para poder elevarse, convierte la energia del combustible  *close up al jetpack* en energia de movimiento *acelera volando*
 
+-- Roca
+Tomemos esta roca, para llevarla a la parte superior de la montaña necesitamos
+usar energia, 400 joules en este caso que son lo mismo que prender 400 lamparas
+de 1 watt durante 1 segundo.
+Al dejarla caer utilizamos otra maquina que tome la energia de movimiento y lo
+convierta en electricidad.
+Observamos que la maquina 400 joules nuevamente, osea
+La energia que pusimos en subir la roca se almaceno en la altura de la roca
+y esta al caer convirtio su altura en energia de movimiento
+que luego la absorbimos para producir energia electrica
+acabamos de precenciar la conservacion y transformacion de la energia!
 
-Mira estas dos rocas, podemos preguntar cuanta energia de movimiento tiene cada
-una, *operador energia = 0 para las dos ya que estan quietas*
-Esperemos un poco y *blink* ahora midamos la energia:
-la primera sigue quieta asi que es 0 y la segunda.. 400! de donde ha venido
-esta energia extra?
-si observamos por el hecho de hacerla caer, aumento velocidad al caer, la
-llamamos energia de altura, puedes comprobarlo dejando caer algo, entre mas
-alto este mayor velocidad tomara justo antes de golpear el piso *diferentes
-rocas a distitnas alturas*
+__________________ Para las matematicas
+m_skarmory = 51.5 [kg]
+m_charizard = 100 [kg]
+m_cutifly = 0.5 [kg]
 
-Pero que si tener altura nos genera energia.. no podriamos crear una maquina de
-energia infinita? *rueda extraña de varias bolas callendo y volviendo a subir*
-pues resulta que para elevar algo hasta 400 J de energia, necesitas darle 400 J de
-energia para ello (nada es gratis en el universo unu)
-
-Para medir energia usamos Joules, que 1 Joule es la energia que tiene una
-manzana al caer desde la altura de 1 metro.
 
 Pongamos en practica:
 Si un Charizard de 100 kg quiere volar a 1 km de altura cuanta energia
