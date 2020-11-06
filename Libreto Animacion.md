@@ -28,7 +28,7 @@ Libreto del Video
   ¿Qué tamaño deben tener las alas de Charizard?
 
 # Intro
-Los modelos son una forma de usar nuestra imaginacion de manera ordenada para
+Los modelos fisicos son una forma de usar nuestra imaginacion de manera ordenada para
 explicar el mundo a nuestro alrededor, //1)Cerebro telepatico
 
 
@@ -39,7 +39,14 @@ en su espalda dejaban paso a la luz y la via lactea formaba su columna
 //2) Criatura
 
 
-Otro modelo es el de los griegos, el cual explica cada suceso como el crecer de
+Otro modelo es el de los griegos, el cual explica cada suceso como 
+la lluvia
+el crecer de las plantas
+mediante distintos dioses que juntos movian el universo
+
+
+
+el crecer de
 las plantas, las lluvias y truenos mediante distintos dioses que
 movian los engranajes de la naturaleza
 //3) Minecraft scenes
