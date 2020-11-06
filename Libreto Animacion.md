@@ -67,12 +67,11 @@ ser calentando gases y ver que colores surgen
 4) Comparamos y solo si los datos de la simulacion y la realidad son acertados
 el modelo seguira en pie
 
-Esto es el metodo cientifico, y permitio que partieramos de creer que el cielo
-estaba pintado a tomar la primera fotografia de un agujero negro que funciona
-por modificar el mismo espacio y tiempo
+Esto es el metodo cientifico, y permitió que partieramos de creer que el cielo
+estaba pintado a tomar la primera fotografia de un agujero negro que modifica el mismo espacio y tiempo
 /*
-Que tamaño debe tener las alas de Charizard para poder volar? Cuanta fuerza tiene un monito de Among Us?
-La fisica utiliza la imaginacion y las matemáticas como lenguaje para responder estas preguntas, es necesario tener las piezas para armar algo grande
+¿Qué tamaño debe tener las alas de Charizard para poder volar? ¿Cuánta fuerza tiene un personaje de Among Us?
+La fisica utiliza la imaginación y las matemáticas como lenguaje para responder estas preguntas, es necesario tener las piezas para armar algo grande
 */
 
 Te dare los controles basicos que usan todos los modelos //5) Controles y combo
@@ -90,7 +89,7 @@ Digamos quieres saber que tan lejos esta Daniel de ti, hola daniel //saludan
 usaremos una cinta metrica
 *acercamiento a la huincha*
 
-y asi cualquier persona a nuestra derecha posee una lugar dado por un unico numero
+y asi cualquier persona a nuestra derecha posee una lugar dado por un único numero
 es una dimension por que la posicion de algo la podemos explicar con un solo
 numero, los 15 metros de Daniel
 
@@ -100,7 +99,7 @@ la posicion de una pieza se llama coordenada
 
 // Utilizar sprites del juego "Into the Breach" 
 esto te puede salvar la vida, imagina debes hacer estallar una colmena de alienigenas zombies pero el sistema de guiado se ha roto, esta en ti el ingresar las coordenadas correctas 
-lo cual puede ser la diferencia entre evitar una catastrofe, o lanzarte el misil a ti mismo
+lo cual puede ser la diferencia entre evitar una catastrofe, o lanzarte el misil a ti mismo //Animación 22  se utiliza de transición para la parte 3D.
 
 ## 3D
 Los videojuegos utilizan 3 numeros para saber en que lugar dejar tu personaje
@@ -116,7 +115,7 @@ Por ejemplo el viaje intergalactico de star wars necesita que viajes mas rapido
 que la luz, aqui la regla que lo impide
 P = \gamma_expandida m v  // Ecuacion de cuadrimomentum
 
-en las simulaciones que haras utilizar las reglas evita que acabes con cosas
+en las simulaciones que harás, utilizar las reglas evita que acabes con cosas
 sin sentido para este universo (otro universo puede tener otras reglas, osea
 otras ecuaciones que daran a lugar a distintos seres que se haran las mismas
 preguntas)
@@ -124,10 +123,14 @@ preguntas)
 Te mostrare la regla mas importante:
 
 # Energia
+ 
 
+ 
 *Profesor X flotando* // Te pregunto: Por que no puedes
 levitar como el profesor? // Profesor X flotando
 
+Una de las reglas más importantes con las que se trabaja en física es la conservación de la energía,
+con ella todo tiene un sentido, ya que es inimaginable que nuestro universo pierda masa de la nada, o que objetos bajo un sistema gravitatorio como una mesa flote mágicamente.La única forma de que un objeto levite como el profesor x es que su máquina esté siendo alimentada constantemente con energía externa tal que la fuerza magnética iguale a la fuerza peso de su artefacto más la propia masa del profesor.
 
 -- Roca
 Tomemos esta roca, para llevarla a la parte superior de la montaña necesitamos
@@ -152,6 +155,9 @@ m_skarmory = 51.5 [kg]
 m_charizard = 100 [kg]
 m_cutifly = 0.5 [kg]
 
+
+
+
 Si tenemos la misma cantidad de energia, gastaremos menos subiendo algo ligero
 que algo pesado, por ejemplo:
 un skarmory con un cutifly juntos 52 kg //escena de la pelea de pokemon
@@ -162,16 +168,19 @@ llega a una altura de 1 kilometro y 60 metros, al ser mas pesado necesita mas
 energia
 
 # Oscilaciones (Salto del Spoink modelado matemáticamente)
-*Utilizar Spoink estatico  / Se aplica derivada del tiempo -> Se mueve*
+*Utilizar Spoink estatico  / Se aplica derivada del tiempo + gráfica al mismo tiempo de y(t)-> Se mueve*
+Probablemente si nos preguntamos cuál es la similitud del pokémon Spoink  y el movimiento que hace la tierra alrededor del sol y aplicamos el criterio científico se nos ocurrirá medir la posición de Spoink desde que salte y caiga - salte y caiga hasta un número muy grande de veces, si la energía se conserva, veremos que el intervalo de tiempo desde que Spoink salte y caiga es la misma para todas las veces que midamos.A este tiempo lo llamaremos período de oscilación y este movimiento repititivo se modela mediante un función periódica (sinusoidal). Basicamente es lo que lo une al movimiento  que hace la tierra alrededor del sol ambas tienen su propio periodo de oscilación, ésta última viaja alrededor del sol con un periodo de 365 días con 6 horas aproximadamente.
 
 
 
 # Fuerza electrica y Radiacion (Leyes de Maxwell mediante operadores)
-
+# Campo eléctrico //historia wooper quagsire 
 # ¿Por qué el cielo es azul?
+
+
 
 # ¿Qué tamaño deben tener las alas de Charizard?
 Existen estudios hasta para como giran los remolinos de una taza de cafe, y no
 es para nada inutil, los remolinos en la taza obedecen las mismas reglas 
 
-
+##Energía == propiedad del espacio tiempo que manifiesta su homogeneidad temporal (opcional)##
