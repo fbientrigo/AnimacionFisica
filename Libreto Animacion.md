@@ -17,7 +17,9 @@ Libreto del Video
   Nombre de seccion
   Intro
   Posición en el Espacio
-  Posicion en 1 Dimension //Animacion en estado final sin audio
+  Posicion en 1 Dimension /Listo
+  Posicion en 2 Dimensiones
+  Posicion en 3 Dimensiones
   Energia                 //Animacion en proceso
   Campo                   //Animacion en proceso
   Oscilaciones (Salto del Spoink modelado matemáticamente)
@@ -27,18 +29,25 @@ Libreto del Video
 
 # Intro
 Los modelos son una forma de usar nuestra imaginacion de manera ordenada para
-explicar el mundo a nuestro alrededor, uno de los primeros modelos viene de
+explicar el mundo a nuestro alrededor, //1)Cerebro telepatico
+
+
+uno de los primeros modelos viene de
 antes de que existiera la escritura, cuando algunos humanos veian el cielo
 estrellado creian que nos encontrabamos dentro de una criatura cuyos agujeros
 en su espalda dejaban paso a la luz y la via lactea formaba su columna
+//2) Criatura
+
 
 Otro modelo es el de los griegos, el cual explica cada suceso como el crecer de
-las plantas, el reposado del vino, las lluvias, mediante distintos dioses que
+las plantas, las lluvias y truenos mediante distintos dioses que
 movian los engranajes de la naturaleza
+//3) Minecraft scenes
 
 El por que tienes una supercomputadora en tu bolsillo y puedes comunicarte con
 una persona a kilometros de distancia, por que existen vacunas y automoviles
 asi como aviones proviene del mismo origen
+//4) Tecnologia
 
 hace algunos siglos dejamos de creer en cualquier modelo que se nos ocurria,
 para saber que modelos no eran realistas usamos una serie de pasos:
@@ -54,11 +63,13 @@ el modelo seguira en pie
 Esto es el metodo cientifico, y permitio que partieramos de creer que el cielo
 estaba pintado a tomar la primera fotografia de un agujero negro que funciona
 por modificar el mismo espacio y tiempo
-
+/*
 Que tamaño debe tener las alas de Charizard para poder volar? Cuanta fuerza tiene un monito de Among Us?
 La fisica utiliza la imaginacion y las matemáticas como lenguaje para responder estas preguntas, es necesario tener las piezas para armar algo grande
+*/
 
-Te dare los controles basicos que usan todos los modelos
+Te dare los controles basicos que usan todos los modelos //5) Controles y combo
+de street fighter, los basicos
 
 # Posición en el Espacio
 Lo primero que necesitamos en nuestro modelo es una forma de diferenciar
@@ -134,19 +145,14 @@ m_skarmory = 51.5 [kg]
 m_charizard = 100 [kg]
 m_cutifly = 0.5 [kg]
 
+Si tenemos la misma cantidad de energia, gastaremos menos subiendo algo ligero
+que algo pesado, por ejemplo:
+un skarmory con un cutifly juntos 52 kg //escena de la pelea de pokemon
+llega a una altura de 2 kilometros y 50 metros con una kangreburguer
 
-## Parte sujeta a la modificacion que den los calculos
-Pongamos en practica:
-Si un Charizard de 100 kg quiere volar a 1 km de altura cuanta energia
-necesita?
-
-*calculo simplecito con operadores*
-Pues utilizaria Z joules lo que seria comer ZZ hamburguesas
-la energia de las hamburguesas se convirtio en energia de altura
-ahora que se lance en picada.. toda esa energia de las hamburguesas paso ahora
-a ser parte de un ataque.. *animacion del charizard usando vuelo y pegandole
-a un pokemon* (insertar un comentario extra uwu)
-
+mientras que un charizard de 100 kg //charizard flotando y volando
+llega a una altura de 1 kilometro y 60 metros, al ser mas pesado necesita mas
+energia
 
 # Oscilaciones (Salto del Spoink modelado matemáticamente)
 *Utilizar Spoink estatico  / Se aplica derivada del tiempo -> Se mueve*
