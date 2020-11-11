@@ -1,0 +1,3 @@
+Aumentar la velocidad de los gif
+en el calculo de las alas de charizard calcular g/pi
+el ejemplo de las alas delta
