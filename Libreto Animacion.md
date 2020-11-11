@@ -169,7 +169,9 @@ energia
 
 # Oscilaciones (Salto del Spoink modelado matemáticamente)
 *Utilizar Spoink estatico  / Se aplica derivada del tiempo + gráfica al mismo tiempo de y(t)-> Se mueve*
-Probablemente si nos preguntamos cuál es la similitud del pokémon Spoink  y el movimiento que hace la tierra alrededor del sol y aplicamos el criterio científico se nos ocurrirá medir la posición de Spoink desde que salte y caiga - salte y caiga hasta un número muy grande de veces, si la energía se conserva, veremos que el intervalo de tiempo desde que Spoink salte y caiga es la misma para todas las veces que midamos.A este tiempo lo llamaremos período de oscilación y este movimiento repititivo se modela mediante un función periódica (sinusoidal). Basicamente es lo que lo une al movimiento  que hace la tierra alrededor del sol ambas tienen su propio periodo de oscilación, ésta última viaja alrededor del sol con un periodo de 365 días con 6 horas aproximadamente.
+
+ Si nos preguntamos cuál es la semejanza de la trayectoria que hace la tierra alrededor del sol, el modelo atómico de Rutherford o un Spoink saltando, probablemente se nos venga a  la cabeza que si medimos su trayectoria en el tiempo, todos los anteriores recorren una misma distancia respecto a un punto fijo y en un determinado período de tiempo, a este tiempo especial le llamaremos período de oscilación. Ocuparemos el método ciéntifico para calcular el periodo de oscilación de nuestro Spoink. Primero utilizaremos nuestro sistema de referencia fijo debajo de la colita del pokémon y nos centraremos en la trayectoria desde que da el primer salto hasta que cae,luego de graficar y un par de cálculos nos da finalmente que el período de nuestro spoink es de 39,5 radianes sobre segundo.Así en el ejemplo de la tierra que gira en torno al sol su período es de 365 días y 6 horas aproximadamente.
+
 
 
 
