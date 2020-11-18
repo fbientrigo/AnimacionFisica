@@ -186,7 +186,15 @@ Si nos preguntamos cuál es la semejanza de la trayectoria que hace la tierra al
 
 
 
-# Fuerza electrica y Radiacion (Leyes de Maxwell mediante operadores)
+# Fuerza electrica y 
+#Radiacion (Leyes de Maxwell mediante operadores)
+Un cuerpo emite radiación de manera natural, ahora si le inyectamos energía este aumentará su temperatura,por esto los objetos que estan muy calientes brillan en el espectro visible,
+una bombilla se enciende porque un hilo que está en su interior se calienta al ser atravesado por la corriente (Imagen de una ampolleta encendiendose), 
+un carbón a mil grados brilla al rojo vivo (cuchillo al rojo vivo), los objetos tambien emiten luz que podemos observar es a lo que nos referimos como luz visible. 
+También los objetos a una menor temperatura en la jerga popular (que están más fríos) cuando estamos a oscuras tambien brillan, pero estos lo hacen en el infrarojo (imagen de una bebida con hielos en infrarojo),
+ esta radiación térmica depende sólo de la temperatura del cuerpo.
+ Así que cuanto mayor es tu temperatura menor 
+es la longitud de onda que emite tu cuerpo (imagen de intensidad vs longitud de onda) esto hace que un cuerpo pueda pasar de emitir luz en el infrarrojo a luz visible con sólo calentarlo
 # Campo eléctrico //historia wooper quagsire 
 # ¿Por qué el cielo es azul?
 
