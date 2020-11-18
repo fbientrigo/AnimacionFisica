@@ -180,8 +180,8 @@ energia
 
 # Oscilaciones (Salto del Spoink modelado matemáticamente)
 *Utilizar Spoink estatico  / Se aplica derivada del tiempo + gráfica al mismo tiempo de y(t)-> Se mueve*
-
- Si nos preguntamos cuál es la semejanza de la trayectoria que hace la tierra alrededor del sol, el modelo atómico de Rutherford o un Spoink saltando, probablemente se nos venga a  la cabeza que si medimos su trayectoria en el tiempo, todos los anteriores recorren una misma distancia respecto a un punto fijo y en un determinado período de tiempo, a este tiempo especial le llamaremos período de oscilación. Ocuparemos el método ciéntifico para calcular el periodo de oscilación de nuestro Spoink. Primero utilizaremos nuestro sistema de referencia fijo debajo de la colita del pokémon y nos centraremos en la trayectoria desde que da el primer salto hasta que cae,luego de graficar y un par de cálculos nos da finalmente que el período de nuestro spoink es de 39,5 radianes sobre segundo.Así en el ejemplo de la tierra que gira en torno al sol su período es de 365 días y 6 horas aproximadamente.
+¿Qué trayectoria se obtiene con la regla que impusimos sobre la conservación de la energía?
+Si nos preguntamos cuál es la semejanza de la trayectoria que hace la tierra alrededor del sol, el modelo atómico de Rutherford o un Spoink saltando, probablemente se nos venga a  la cabeza que si medimos su trayectoria en el tiempo, y hay conservación de la energía. todos los anteriores recorren una misma distancia respecto a un punto fijo y en un determinado período de tiempo, a este tiempo especial le llamaremos período de oscilación. Ocuparemos el método ciéntifico para calcular el periodo de oscilación de nuestro Spoink. Primero utilizaremos nuestro sistema de referencia fijo debajo de la colita del pokémon y nos centraremos en la trayectoria desde que da el primer salto hasta que cae,luego de graficar y un par de cálculos nos da finalmente que el período de nuestro spoink es de 39,5 radianes sobre segundo.Así en el ejemplo de la tierra que gira en torno al sol su período es de 365 días y 6 horas aproximadamente.
 
 
 
