@@ -141,7 +141,7 @@ de 1 watt durante 1 segundo.
 Al dejarla caer utilizamos otra maquina que tome la energia de movimiento y lo
 convierta en electricidad.
 Observamos que la maquina marca 400 joules nuevamente, osea
-La energia que pusimos en subir la roca se almaceno en la altura de la roca
+La energia que pusimos en subir la roca se almaceno en la altura de la misma
 y esta al caer convirtio su altura en energia de movimiento
 que luego la absorbimos para producir energia electrica
 acabamos de precenciar la conservacion y transformacion de la energia!
