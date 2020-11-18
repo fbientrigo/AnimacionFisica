@@ -82,8 +82,10 @@ objetos que estan en distintos lugares, hablar de como se mueven.
 ##1D
 Posicion en 1 Dimension
 
-Tenemos el siguiente
-Digamos quieres saber que tan lejos esta Daniel de ti, hola daniel //saludan
+Para este caso debemos preguntarnos que tan lejos está el personaje púrpura del amarillo, para esto ocupamos una cinta métrica.
+Así cualquier persona a nuestra derecha por ejemplo posee un lugar dado por un único número, en este caso 15 metros.
+
+ //saludan
 usaremos una cinta metrica
 *acercamiento a la huincha*
 
@@ -92,14 +94,21 @@ es una dimension por que la posicion de algo la podemos explicar con un solo
 numero, los 15 metros de Daniel
 
 ## 2D
-Si hablamos de dos dimensiones aumentamos a 2 los numeros necesarios //ajedrez
-la posicion de una pieza se llama coordenada
+Si hablamos de dos dimensiones complicamos un poco las cosas, para este caso ocuparemos un sistema tal que se pueda identificar un punto en el espacio 
+dando como referencia dos coordenadas, como leer un tablero de ajedrez, ya que por ejemplo si vemos a la izquerda movemos el cañon desde la coordenada (C,4) a 
+la coordenada (C,7). Y a la derecha vemos que nuestro cañon dispara desde (c,4) a la coordenada (h,4), esto se emplea de manera vital en muchos juegos de táctica y estrategia para la ubicación de sus personajes.
+Ahora pasaremos a las 3 dimensiones.
+//Ajedrez
+
 
 // Utilizar sprites del juego "Into the Breach" 
 esto te puede salvar la vida, imagina debes hacer estallar una colmena de alienigenas zombies pero el sistema de guiado se ha roto, esta en ti el ingresar las coordenadas correctas 
 lo cual puede ser la diferencia entre evitar una catastrofe, o lanzarte el misil a ti mismo //Animación 22  se utiliza de transición para la parte 3D.
 
-## 3D
+## 3D 
+Analogamente necesitamos agregar la dimensión de altura como una nueva coordenada dando lugar a más libertad dentro del juego como en el popular videojuego
+Minecraft que ocupa este sistema para expandir de forma casi ilimitada sus mapas.
+
 Los videojuegos utilizan 3 numeros para saber en que lugar dejar tu personaje
 del fortnite // Fornnite corriendo 
 y evitar que te caigas hacia el vacio //Caida al vacio de minecraft
@@ -120,8 +129,25 @@ preguntas)
 
 Te mostrare la regla mas importante:
 
+
 # Energia
- 
+
+Ahora que sabemos como ubicar las cosas en el espacio, debemos saber que reglas nos impone el mismo universo.
+
+-- Roca
+Tomemos esta roca, para llevarla a la parte superior de la montaña necesitamos
+usar energia, 400 joules en este caso que son lo mismo que prender 400 lamparas
+de 1 watt durante 1 segundo.
+Al dejarla caer utilizamos otra maquina que tome la energia de movimiento y lo
+convierta en electricidad.
+Observamos que la maquina marca 400 joules nuevamente, osea
+La energia que pusimos en subir la roca se almaceno en la altura de la roca
+y esta al caer convirtio su altura en energia de movimiento
+que luego la absorbimos para producir energia electrica
+acabamos de precenciar la conservacion y transformacion de la energia!
+
+Nunca puedes generar energia de la nada
+
 
  
 *Profesor X flotando* // Te pregunto: Por que no puedes
@@ -130,19 +156,6 @@ levitar como el profesor? // Profesor X flotando
 Una de las reglas más importantes con las que se trabaja en física es la conservación de la energía,
 con ella todo tiene un sentido, ya que es inimaginable que nuestro universo pierda masa de la nada, o que objetos bajo un sistema gravitatorio como una mesa flote mágicamente.La única forma de que un objeto levite como el profesor x es que su máquina esté siendo alimentada constantemente con energía externa tal que la fuerza magnética iguale a la fuerza peso de su artefacto más la propia masa del profesor.
 
--- Roca
-Tomemos esta roca, para llevarla a la parte superior de la montaña necesitamos
-usar energia, 400 joules en este caso que son lo mismo que prender 400 lamparas
-de 1 watt durante 1 segundo.
-Al dejarla caer utilizamos otra maquina que tome la energia de movimiento y lo
-convierta en electricidad.
-Observamos que la maquina 400 joules nuevamente, osea
-La energia que pusimos en subir la roca se almaceno en la altura de la roca
-y esta al caer convirtio su altura en energia de movimiento
-que luego la absorbimos para producir energia electrica
-acabamos de precenciar la conservacion y transformacion de la energia!
-
-Nunca puedes generar energia de la nada
 
 -- Nave Metal Slug (en proceso)
 Por ejemplo *nave del metal slug voladno*
