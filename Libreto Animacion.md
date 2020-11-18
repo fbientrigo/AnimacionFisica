@@ -41,14 +41,12 @@ en su espalda dejaban paso a la luz y la via lactea formaba su columna
 
 Otro modelo es el de los griegos, el cual explica cada suceso como 
 la lluvia
-el crecer de las plantas
+el crecer de las plantas  y truenos
 mediante distintos dioses que juntos movian el universo
 
 
 
-el crecer de
-las plantas, las lluvias y truenos mediante distintos dioses que
-movian los engranajes de la naturaleza
+
 //3) Minecraft scenes
 
 El por que tienes una supercomputadora en tu bolsillo y puedes comunicarte con
